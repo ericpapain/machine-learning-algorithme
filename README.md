@@ -56,7 +56,7 @@ Implementation d'un modèl de classification de mail et de spam avec nayve bayes
     > Technologies, outils et divers...
 - Python
 - Naye Bayes
-- dataset utilisé  http://wang.ist.psu.edu/docs/related/
+- dataset utilisé  https://github.com/ericpapain/machine-learning-algorithme/blob/master/data_set_email_ham_spam_groupe_1_mezatio_kenley.tar.gz
 - résultats ( sont disponible dans le rapport en pdf dans le dossier du projet)
 
 ## data_preprocessing_template.py
